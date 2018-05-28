@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Edwin Shi"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "Data Scientist at True[X]."
   location         : "Los Angeles, CA"
   email            :
